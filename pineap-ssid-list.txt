@@ -38,3 +38,6 @@ united_club
 unitedwifi
 xfinitywifi
 UPC Wi-Free
+Google Starbucks
+Starbucks WiFi
+CoffeeBeanWifi
