@@ -36,3 +36,4 @@ Qantas-Lounge
 United_Wi-F
 united_club
 unitedwifi
+xfinitywifi
