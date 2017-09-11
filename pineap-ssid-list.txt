@@ -33,3 +33,6 @@ MARRIOTT_GUEST
 MaundGuest
 attwifi
 Qantas-Lounge
+United_Wi-F
+united_club
+unitedwifi
