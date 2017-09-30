@@ -8,7 +8,9 @@ Boingo Hotspot
 Gatwick FREE Wi-Fi
 hhonors
 BELL_WIFI
+#WiFi@Changi
 Singtel WIFI
+Wireless@SG
 HolidayInn
 guestnet
 VirginTrainsEC-WiFi
@@ -41,3 +43,5 @@ UPC Wi-Free
 Google Starbucks
 Starbucks WiFi
 CoffeeBeanWifi
+Auckland Airport
+Spark WIFI
