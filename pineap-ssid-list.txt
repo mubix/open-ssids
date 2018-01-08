@@ -45,3 +45,4 @@ Starbucks WiFi
 CoffeeBeanWifi
 Auckland Airport
 Spark WIFI
+Guest
