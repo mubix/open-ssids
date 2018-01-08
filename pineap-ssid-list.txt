@@ -46,3 +46,4 @@ CoffeeBeanWifi
 Auckland Airport
 Spark WIFI
 Guest
+GUEST
