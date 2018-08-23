@@ -1,53 +1,61 @@
-Caravel Conferences
-SKYNET
-Caravel Wireless
-CrossCountryWiFi
-arq_wifi
-Boingo Hotspot
-.Venice Airport Free WiFi
-Gatwick FREE Wi-Fi
-hhonors
-BELL_WIFI
 #WiFi@Changi
-Singtel WIFI
-Wireless@SG
-HolidayInn
-guestnet
-VirginTrainsEC-WiFi
-mobilywifi
-HHonors
+.Venice Airport Free WiFi
 AirPort Express
-lavistarooms
-gogoinflight
-DXB Free WiFi
-VodafoneWiFi
-Telcel Hotspot
-DomoticaSys
 Airport_FreeInternet
-Guest@Hilton
-Guest@Balalaika
+Apple Demo
+Auckland Airport
+BAYMONT
+BELL_WIFI
+Boingo Hotspot
+Caravel Conferences
+Caravel Wireless
+Chick-fil-A WiFi
+Chili's
+CoffeeBeanWifi
+CrossCountryWiFi
 DOCOMO@Hilton Meetings
+DXB Free WiFi
+DomoticaSys
+GUEST
+Gatwick FREE Wi-Fi
+Google Starbucks
+Guest
+Guest@Balalaika
+Guest@Hilton
+HHonors
+HolidayInn
+HolidayInn-GuestRoom
 HolidayInn_Guest
-O2 Wifi
-Macdonald Manchester WiFi
-MSFTOPEN
 MARRIOTT_GUEST
+MSFTOPEN
+Macdonald Manchester WiFi
 MaundGuest
-attwifi
+O2 Wifi
 Qantas-Lounge
+Riverboat Free Wi-Fi
+SAMSUNGSMART
+SKYNET
+Singtel WIFI
+Spark WIFI
+Starbucks WiFi
+TGI Fridays Guest Wifi
+Telcel Hotspot
+UPC Wi-Free
 United_Wi-F
+VirginTrainsEC-WiFi
+VodafoneWiFi
+Wireless@SG
+XFINITY
+amtrak
+arq_wifi
+attwifi
+attwifibn
+countryinns
+gogoinflight
+guestnet
+hhonors
+lavistarooms
+mobilywifi
 united_club
 unitedwifi
 xfinitywifi
-UPC Wi-Free
-Google Starbucks
-Starbucks WiFi
-CoffeeBeanWifi
-Auckland Airport
-Spark WIFI
-Guest
-GUEST
-XFINITY
-attwifibn
-HolidayInn-GuestRoom
-BAYMONT
