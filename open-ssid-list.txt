@@ -1,4 +1,5 @@
 #WiFi@Changi
+AIRPORT
 .Venice Airport Free WiFi
 AirPort Express
 Airport_FreeInternet
