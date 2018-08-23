@@ -1,4 +1,4 @@
-# Pineapple Hotspots
+# Open Hotspots List
 
 Just a list of effective SSIDs to put into PineAP on the Wifi Pineapple: https://www.wifipineapple.com/ or Sensepost's (@singe) Mana project: https://github.com/sensepost/mana
 
