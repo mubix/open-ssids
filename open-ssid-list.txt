@@ -1,66 +1,292 @@
-#WiFi@Changi
-AIRPORT
 .Venice Airport Free WiFi
+@Bertel O Steen guest
+#WiFi@Changi
+AFGuest
+Agra-Guest
+AirLink2400ac5G
+AirLink2954
+AIRPORT
 AirPort Express
 Airport_FreeInternet
+Akershus-FK Gjest
+Akershus-FK Start
+AM-Gjest
+amtrak
+Andreas.b
 Apple Demo
+Apple Network 88e70a
+arq_wifi
+ASUS_5G
+ASUS_RPAC53
+ASUS_RPAC53_5G
+attwifi
+attwifibn
 Auckland Airport
+AudioCast_3610
+AudioCast_375C
+auris skye-668BBA
+Austad-Guest
 BAYMONT
 BELL_WIFI
+BK-GJEST
+Bogstadveien Kunder
 Boingo Hotspot
+Boingo Hotspot
+BW-Gjest
 Caesars_Resorts
 Caravel Conferences
 Caravel Wireless
+CEWE
 Chick-fil-A WiFi
 Chili's
+Chromecast JRRF
+Chromecast0496.b
+Chromecast1217.b
+Chromecast2553
+Chromecast2651.b
+Chromecast3005.b
+Chromecast4203.b
+ChromecastCondioTv2
+ChromecastMie.b
+Circle K - Guest
+Clas Ohlson Free
 CoffeeBeanWifi
+countryinns
 CrossCountryWiFi
+Daddy.b
+davinci
+default
+DelideLuca kundenett
+dlink
 DOCOMO@Hilton Meetings
-DXB Free WiFi
 DomoticaSys
-GUEST
+Drammensnettet
+DrayTek
+DRS_gjest
+DRS-gjest_5Ghz
+DXB Free WiFi
+ECOVACS_2595
+Elmael-gjest
+Eneste-stue.b
+EWAstue
+Fagforbundet-gjest
+firuhpvfe
+fmve-gjest
+Free Public WiFi
+free-WIFI-Torp
+Free1Time
+FreeWifi Farmandstredet
+FreeWifi Gulskogen
+G7X-603_Canon0B
+Garasjen
 Gatwick FREE Wi-Fi
+GJEST
+Gjest
+Gjest_Securitas
+Gjest@NH
+Gjestenett
+GLinksys-gjest
+Glitreenergi-FB
+Glitreenergi-SMS
+gogoinflight
 Google Starbucks
+GUEST
 Guest
 Guest@Balalaika
 Guest@Hilton
+guestnet
+H&M Free WiFi
+HelseSorOst
+hhonors
 HHonors
 Hilton Honors
+HK_Omni_10+_Setup_54c
+HK_Omni_50+_Setup_8f9
 HolidayInn
-HolidayInn-GuestRoom
 HolidayInn_Guest
-MARRIOTT_GUEST
-MSFTOPEN
+HolidayInn-GuestRoom
+homerun
+Hopp_gjest
+HP-Print-11-LaserJet 1102
+HP-Print-16-ENVY 4500 series
+HP-Print-1b-LaserJet 400 color
+HP-Print-23-Officejet Pro 8600
+HP-Print-24-LaserJet 100
+HP-Print-25-Officejet Pro 6830
+HP-Print-33-Color LaserJet MFP
+HP-Print-33-Photosmart 7520
+HP-Print-36-Deskjet 3520 series
+HP-Print-37-Photosmart 5520
+HP-Print-38-Photosmart 7520
+HP-Print-40-ENVY 4500 series
+HP-Print-42-LaserJet 400
+HP-Print-4F-ENVY 4500 series
+HP-Print-4f-LaserJet 400 MFP
+HP-Print-54-LaserJet 1102
+HP-Print-6a-LaserJet 400 M401dw
+HP-Print-73-LaserJet 1102
+HP-Print-7A-Officejet 4630
+HP-Print-7B-Photosmart 6520
+HP-Print-7F-ENVY 4500 series
+HP-Print-85-Deskjet 3520 series
+HP-Print-90-Officejet Pro 8610
+HP-Print-9d-LaserJet 100
+HP-Print-a4-LaserJet 400
+HP-Print-af-LaserJet 400 MFP
+HP-Print-B2-ENVY 5530 series
+HP-Print-B6-ENVY 4500 series
+HP-Print-be-LaserJet 300
+HP-Print-c4-LaserJet 400
+HP-Print-c5-LaserJet 100
+HP-Print-C5-LaserJet 1102
+HP-Print-C5-Officejet Pro 8600
+HP-Print-C6-LaserJet 1102
+HP-Print-C9-Officejet Pro 8600
+HP-Print-cc-Color LaserJet MFP
+HP-Print-CC-Photosmart 7520
+HP-Print-D0-Officejet Pro 8610
+HP-Print-d7-Color LaserJet MFP
+HP-Print-EE-Officejet Pro 8610
+HP-Print-ef-LaserJet 400 M401dw
+HP-Print-F2-ENVY 4500 series
+HP-Print-F6-Officejet Pro 8610
+HP-Print-FC-Deskjet 3520 series
+HP-Setup>04-M277 LaserJet
+HP-Setup>16-M277 LaserJet
+HP-Setup>64-M277 LaserJet
+HP-Setup>c5-M277 LaserJet
+HPE910.8E608E
+hpsetup
+HSN-guest
+HusbankenGjestenett
+Husetpub-guest
+Hybern.b
+jansls iPhone
+Jbf-Gjest
+Jensen AirLink 7954
+JG-Guest
+JOE AND THE JUICE
+Jordbaerpikene Gjestenett
+Jørgens TV.b
+KappAhl_Guest
+Kileveien 175
+Kjøkkenet
+Kloster gt 3B-gjest
+Klubben_Wifi_Reception
+Kontor.b
+kundenett
+Kundenett_HOVS
+La Baguette WiFi       
+Laringsverkstedet-Gjester
+lavistarooms
+Lefsrod_gjestenett_1
+Libratone 081EEA
+linksys
+LinWAN
+Living Room TV 2.b
 Macdonald Manchester WiFi
+Mambo_614195
+MARRIOTT_GUEST
 MaundGuest
+Mcd Free WiFi
+Meraki Setup
+Miljodir-guest
+mjøs
+mobilywifi
+Montana_MSU_Direct022B24
+MSFTOPEN
+mycloud
+Narvesen Kundenett
+Narvesen Kundenett
+NAV-gjest
+Nor-Way
+Norconsult Guest
+NORWEGIAN
+NSB_INTERAKTIV
 O2 Wifi
-Qantas-Lounge
+Ommedal
+Omni10_Setup_BE2
+Omni20_Setup_A6C
+Omni20_Setup_FAD
+OSL-LOUNGE
+Petterprivat
 Piedmont_Connect
+Polk MagniFi Mini-4582.l001
+Polk MagniFi Mini-5408.l001
+Polk MagniFi Mini-5472.l001
+Polk MagniFi Mini-6331.l001
+Polk MagniFi Mini-7999.l001
+Portthru
+Qantas-Lounge
+ragnhild
+Re-Nett
+Re-Nett-2GHz
+Re-Nett-5GHz
+REMA1000-Kunde
+rick
 Riverboat Free Wi-Fi
+ROV-ICE-01
+rv220_1
+SA9800_c2c2e8
+samsung TV.b
 SAMSUNGSMART
-SKYNET
+SAS WiPoint
+sb-gjest
+scandic_easy
+Schascast.b
+Schlytter-Henrichsen-gjest
+SETUP
 Singtel WIFI
+Sitecom
+SKYNET
+SOLENIS-VISITOR
+SoloGjest
+Solution2020
+SolvikBaatforening
+Soverom.b
 Spark WIFI
 Starbucks WiFi
-TGI Fridays Guest Wifi
+Stue
+Stue.b
+Stue.l001
+sv.no/bli-med.b
+SVV gjestenett
+TC-Demo Home
 Telcel Hotspot
-UPC Wi-Free
+telenor
+Telia wifi
+Test
+TGI Fridays Guest Wifi
+The Sense Gjest
+Thomas-gjest
+Thon Hotel Horten
+Thon Wifi
+TMF Guest
+torp
+Toyota Open
+Tv Stue.b
+Ulfsrud-WLAN
+united_club
 United_Wi-F
+unitedwifi
+UPC Wi-Free
+USN-guest
+USN-guest_2.4G
+V-MAN Gjest
+VDGUEST_SMS
+Victoria.b
+VillaSolares-guest
+villawiig-gjest
 VirginTrainsEC-WiFi
+VisitorNet
 VodafoneWiFi
+VolvoTrucks SEM AP
+VP1
+Wiesiek
+WiFi_OBDII
+wifi@nettbuss.no
 Wireless@SG
 Wyndam Guest
 XFINITY
-amtrak
-arq_wifi
-attwifi
-attwifibn
-countryinns
-gogoinflight
-guestnet
-hhonors
-lavistarooms
-mobilywifi
-united_club
-unitedwifi
 xfinitywifi
+YARA-Guest
