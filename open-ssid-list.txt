@@ -8,6 +8,7 @@ Auckland Airport
 BAYMONT
 BELL_WIFI
 Boingo Hotspot
+Caesars_Resorts
 Caravel Conferences
 Caravel Wireless
 Chick-fil-A WiFi
@@ -24,6 +25,7 @@ Guest
 Guest@Balalaika
 Guest@Hilton
 HHonors
+Hilton Honors
 HolidayInn
 HolidayInn-GuestRoom
 HolidayInn_Guest
@@ -33,6 +35,7 @@ Macdonald Manchester WiFi
 MaundGuest
 O2 Wifi
 Qantas-Lounge
+Piedmont_Connect
 Riverboat Free Wi-Fi
 SAMSUNGSMART
 SKYNET
@@ -46,6 +49,7 @@ United_Wi-F
 VirginTrainsEC-WiFi
 VodafoneWiFi
 Wireless@SG
+Wyndam Guest
 XFINITY
 amtrak
 arq_wifi
