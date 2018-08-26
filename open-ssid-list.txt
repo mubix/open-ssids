@@ -1,13 +1,16 @@
 #WiFi@Changi
-AIRPORT
 .Venice Airport Free WiFi
+AIRPORT
 AirPort Express
 Airport_FreeInternet
 Apple Demo
 Auckland Airport
 BAYMONT
+BELLWIFI@MCDONALDS
 BELL_WIFI
 Boingo Hotspot
+Boston Pizza
+Burger King (Public)
 Caesars_Resorts
 Caravel Conferences
 Caravel Wireless
@@ -18,36 +21,51 @@ CrossCountryWiFi
 DOCOMO@Hilton Meetings
 DXB Free WiFi
 DomoticaSys
+GH_Cottages
 GUEST
 Gatwick FREE Wi-Fi
+George's Bubble Tea
 Google Starbucks
 Guest
 Guest@Balalaika
 Guest@Hilton
 HHonors
+Halifax Public Libraries
 Hilton Honors
 HolidayInn
 HolidayInn-GuestRoom
 HolidayInn_Guest
+JACK ASTOR'S GUEST
 MARRIOTT_GUEST
 MSFTOPEN
 Macdonald Manchester WiFi
 MaundGuest
+Millcove_Guest
+Montana's-Guest
 O2 Wifi
-Qantas-Lounge
 Piedmont_Connect
+Qantas-Lounge
+RMHGuest
 Riverboat Free Wi-Fi
 SAMSUNGSMART
+SJIAA Public WiFi
 SKYNET
+SMH_Guest
 Singtel WIFI
 Spark WIFI
 Starbucks WiFi
+Sundance Cottages
+Swiss - Guest
+TD-WIFI
 TGI Fridays Guest Wifi
 Telcel Hotspot
+Tim Hortons WiFi
 UPC Wi-Free
 United_Wi-F
 VirginTrainsEC-WiFi
 VodafoneWiFi
+WestJetConnect
+WickerEmporium
 Wireless@SG
 Wyndam Guest
 XFINITY
@@ -57,6 +75,7 @@ attwifi
 attwifibn
 countryinns
 gogoinflight
+good life fitness
 guestnet
 hhonors
 lavistarooms
@@ -64,18 +83,3 @@ mobilywifi
 united_club
 unitedwifi
 xfinitywifi
-
-
-
-
-
-Millcove_Guest
-Burger King (Public)
-good life fitness
-BELLWIFI@MCDONALDS
-SMH_Guest
-TD-WIFI
-JACK ASTOR'S GUEST
-Boston Pizza
-Montana's-Guest
-Tim Hortons WiFi
