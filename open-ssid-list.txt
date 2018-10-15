@@ -1,4 +1,5 @@
 #WiFi@Changi
+AccessZone
 AIRPORT
 .Venice Airport Free WiFi
 AirPort Express
@@ -14,6 +15,7 @@ Caravel Conferences
 Caravel Wireless
 Chick-fil-A WiFi
 Chili's
+CLiQQ WiFi
 CoffeeBeanWifi
 CrossCountryWiFi
 DOCOMO@Hilton Meetings
@@ -48,13 +50,16 @@ Riverboat Free Wi-Fi
 SAMSUNGSMART
 SKYNET
 Singtel WIFI
+SM Free WiFi
 Spark WIFI
 Starbucks WiFi
 TGI Fridays Guest Wifi
 Telcel Hotspot
+tornado
 UPC Wi-Free
 United_Wi-F
 VirginTrainsEC-WiFi
+virus
 VodafoneWiFi
 Wireless@SG
 Wyndam Guest
