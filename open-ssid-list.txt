@@ -3,6 +3,7 @@ AIRPORT
 .Venice Airport Free WiFi
 AirPort Express
 Airport_FreeInternet
+AndroidAP
 Apple Demo
 Auckland Airport
 BAYMONT
@@ -16,6 +17,7 @@ Chili's
 CoffeeBeanWifi
 CrossCountryWiFi
 DOCOMO@Hilton Meetings
+DLINK
 DXB Free WiFi
 DomoticaSys
 GUEST
@@ -33,9 +35,15 @@ MARRIOTT_GUEST
 MSFTOPEN
 Macdonald Manchester WiFi
 MaundGuest
+Mitsubishi Wireless TV
+NETGEAR
 O2 Wifi
 Qantas-Lounge
 Piedmont_Connect
+PLDTHOMEDSL
+PLDTMyDSL
+PLDTMyDSLBiz
+Prolink-H6300G
 Riverboat Free Wi-Fi
 SAMSUNGSMART
 SKYNET
