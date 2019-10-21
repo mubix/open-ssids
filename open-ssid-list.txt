@@ -3,8 +3,10 @@ AIRPORT
 .Venice Airport Free WiFi
 AirPort Express
 Airport_FreeInternet
+AndroidAP
 Apple Demo
 Auckland Airport
+aztech
 BAYMONT
 BELL_WIFI
 Boingo Hotspot
@@ -20,15 +22,18 @@ DXB Free WiFi
 DomoticaSys
 GUEST
 Gatwick FREE Wi-Fi
+Globe Broadband
 Google Starbucks
 Guest
 Guest@Balalaika
 Guest@Hilton
+HUAWEI
 HHonors
 Hilton Honors
 HolidayInn
 HolidayInn-GuestRoom
 HolidayInn_Guest
+HomeBro_ULTERA
 MARRIOTT_GUEST
 MSFTOPEN
 Macdonald Manchester WiFi
@@ -40,6 +45,7 @@ Riverboat Free Wi-Fi
 SAMSUNGSMART
 SKYNET
 Singtel WIFI
+Smart_Bro
 Spark WIFI
 Starbucks WiFi
 TGI Fridays Guest Wifi
@@ -64,3 +70,4 @@ mobilywifi
 united_club
 unitedwifi
 xfinitywifi
+Virus
